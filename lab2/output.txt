@@ -1,0 +1,5 @@
++12.3 -->double
+-12.3 -->double
+12.3 -->double
+.3 -->double
++9.56 -->double
